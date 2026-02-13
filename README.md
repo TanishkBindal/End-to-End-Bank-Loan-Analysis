@@ -112,8 +112,13 @@ Provides a comprehensive view of key loan-related metrics and data points, facil
 https://app.powerbi.com/groups/me/reports/c49e2adc-8582-4bb8-9867-3bf919cdb199/1d521cb37e5e37e0084b?experience=power-bi&clientSideAuth=0
 
 ## Dashboard Screenshots
+### 📊 Summary Dashboard
 <img width="1324" height="744" alt="Screenshot 2026-02-12 154151" src="https://github.com/user-attachments/assets/b5b15838-6490-4773-b311-b04945b4d1a4" />
+
+### 📈 Overview Dashboard
 <img width="1323" height="741" alt="Screenshot 2026-02-12 154339" src="https://github.com/user-attachments/assets/3650985d-47f8-407e-9f3c-97dbd1bbfbed" />
+
+### 🔍 Details Dashboard
 <img width="1325" height="745" alt="Screenshot 2026-02-12 154454" src="https://github.com/user-attachments/assets/0dfc0ebd-a595-4f98-ac80-8fff05bd94aa" />
 
 <div align="left">
