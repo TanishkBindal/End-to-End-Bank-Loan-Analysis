@@ -2,7 +2,7 @@
 
 # End to End Bank Loan Portfolio Analysis
 
-## 🔎 Project Overview
+## 🔍 Project Overview
 This project presents a comprehensive analysis of a bank’s loan portfolio using Power BI. The objective was to evaluate loan performance, monitor credit risk exposure, analyze borrower behavior, and generate data-driven insights to support strategic financial decision-making.
 The solution consists of three interactive dashboard pages:
 
