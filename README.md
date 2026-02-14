@@ -102,11 +102,11 @@ Provides a comprehensive view of key loan-related metrics and data points, facil
 
 ## Impact & Outcomes
 #### The Bank Loan Analysis Report transforms raw transactional data into actionable intelligence, enabling:
-- **Data-Driven Decision Making :** Executive leadership equipped with real-time portfolio insights
-- **Risk Mitigation :** Early identification of portfolio deterioration through trend analysis
-- **Performance Benchmarking :** Month-over-month growth tracking against targets
+- **Data-Driven Decision Making :** Executive leadership equipped with real-time portfolio insights.
+- **Risk Mitigation :** Early identification of portfolio deterioration through trend analysis.
+- **Performance Benchmarking :** Month-over-month growth tracking against targets.
 - **Operational Excellence :** Automated reporting eliminating manual Excel processes and reducing manual analysis time by 80%+.
-- **Strategic Insights :** Multi-dimensional analysis revealing hidden patterns and opportunities
+- **Strategic Insights :** Multi-dimensional analysis revealing hidden patterns and opportunities.
 
 ## Report Link
 https://app.powerbi.com/groups/me/reports/c49e2adc-8582-4bb8-9867-3bf919cdb199/1d521cb37e5e37e0084b?experience=power-bi&clientSideAuth=0
